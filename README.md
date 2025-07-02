@@ -1,4 +1,4 @@
-# 🚀 C++ Roadmap Viewer
+# 🚀 Roadmap Viewer
 
 A modern, professional web application for viewing markdown-based programming roadmaps and documentation with a beautiful, interactive interface.
 
@@ -60,7 +60,7 @@ mark/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [repository-url](https://github.com/Prince200510/Markdown.git)
    cd mark
    ```
 
