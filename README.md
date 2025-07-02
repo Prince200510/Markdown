@@ -60,7 +60,7 @@ mark/
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url](https://github.com/Prince200510/Markdown.git)
+   git clone https://github.com/Prince200510/Markdown.git
    cd mark
    ```
 
